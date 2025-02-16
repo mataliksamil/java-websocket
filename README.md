@@ -1,7 +1,7 @@
 # Java Spring Boot WebSocket Project
 
-This project demonstrates WebSocket messaging using Java.
-Created By WindSurf & Claude 3.5 Sonnet
+- This project demonstrates WebSocket messaging using Java.
+- Created with WindSurf & Claude 3.5 Sonnet
 
 ## Running the Project
 
